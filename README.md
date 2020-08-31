@@ -35,7 +35,6 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 - Machine Learning
 - Deep Learning
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
 ## Talking about personal stuff ::
 -  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
