@@ -26,7 +26,7 @@ Python
 ## About ::
    B.E. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+
    
 ## Technologies :fire🔥🔥:
 - Data Analysis with **Python**.
@@ -35,7 +35,7 @@ Python
 - Machine Learning
 - Deep Learning
 
-
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 ## Talking about personal stuff ::
 -  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
 - While Coding, Listening Music and developing useful code.⭐️
