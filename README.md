@@ -20,7 +20,7 @@
 
 
 
-Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps with ᖴᒪᗩᔕK | Tᴇɴꜱᴏʀғʟᴏᴡ ||
+Machine Learning Intern | Aspiring Data Scientist | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ-Tesnsorflow | ML webapps with Flask |
 Python
 
 ## About ::
@@ -29,18 +29,17 @@ Python
 
    
 ## Technologies :fire🔥🔥:
-- Data Analysis with **Python**.
-- Data Science.
-- Python.
-- Machine Learning
-- Deep Learning
+- Data Science (**Pandas, Matplotlib, Scipy**)
+- Python
+- Machine Learning (**scikit-learn, seaborn**)
+- Deep Learning (**Keras**)
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 ## Talking about personal stuff ::
--  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
-- While Coding, Listening Music and developing useful code.⭐️
-- Just loved to Explore new Tech Stacks.💻
-- Always Willing to help (Altruistic). ✋
+-  My interests are with Machine Learning, Data Science, Computer vision, Deep Learning, etc..;
+- While Coding, Listening Music and developing useful code.;⭐️
+- Just loved to Explore new Tech Stacks.;💻
+- Always Willing to help (Altruistic).; ✋
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
 
