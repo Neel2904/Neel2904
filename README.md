@@ -63,7 +63,7 @@ Python
 
 
 ##  CONTACT ::speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@Neel_3056-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Neel_3056)](https://twitter.com/Neel_3056) [![Linkedin Badge](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gorasiyaneel/)](https://www.linkedin.com/in/gorasiyaneel/) [![Gmail Badge](https://img.shields.io/badge/-mgorasiya1974@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mgorasiya1974@gmail.com)](mailto:mgorasiya1974@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Neel-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/Neel/)](https://www.instagram.com/neelg._.3056/)
+[![Twitter Badge](https://img.shields.io/badge/-@Neel_3056-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Neel_2904)](https://twitter.com/Neel_2904) [![Linkedin Badge](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gorasiyaneel/)](https://www.linkedin.com/in/gorasiyaneel/) [![Gmail Badge](https://img.shields.io/badge/-mgorasiya1974@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mgorasiya1974@gmail.com)](mailto:mgorasiya1974@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Neel-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/Neel/)](https://www.instagram.com/neelg._.3056/)
 
 
 
