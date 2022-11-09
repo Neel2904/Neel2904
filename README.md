@@ -32,7 +32,7 @@ Python
 - Data Science (**Pandas, Matplotlib, Scipy**)
 - Python
 - Machine Learning (**scikit-learn, seaborn**)
-- Deep Learning (**Keras**)
+- Deep Learning (**Keras, TensorFlow**)
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 ## Talking about personal stuff ::
